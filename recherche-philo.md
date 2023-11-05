@@ -52,3 +52,5 @@
 - dicopo.org
 - jdarriulat.net
 - philitt.fr
+- revue-klesis.org
+- blog.ac-versailles.fr/oeildeminerve
