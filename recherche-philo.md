@@ -1,0 +1,51 @@
+# Recherche philo académique
+
+> Un moteur de recherche sur des sites de niveau académique en philosophie (encyclopédies, revues, universités, blogs de recherche …)
+
+- plato.stanford.edu
+- iep.utm.edu
+- cairn.info
+- jstor.org
+- erudit.org
+- persee.fr
+- journals.openedition.org
+- hypotheses.org
+- philpapers.org
+- encyclo-philo.fr
+- laviedesidees.fr
+- ifac.univ-nantes.fr
+- philopsis.fr
+- college-de-france.fr
+- philosophicaldisquisitions.blogspot.com
+- mediaserver.unige.ch
+- academia.edu
+- tar.weatherson.org
+- unphilosophe.com
+- dogmadelendaest.wordpress.com
+- ecopraxisphilo.fr
+- implications-philosophiques.org
+- septembre.space
+- michel-terestchenko.blogspot.com
+- martin-gibert.medium.com
+- philomedia.be
+- cortex-nihilo.fr
+- en-attendant-nadeau.fr
+- philosophyetc.net
+- rychappell.substack.com
+- schwitzsplinters.blogspot.com
+- dailynous.com
+- peasoupblog.com
+- nigelwarburton.typepad.com
+- aeon.co
+- overcomingbias.com
+- inthespaceofreasons.blogspot.com
+- undsoc.org
+- imperfectcognitions.blogspot.com
+- conscienceandconsciousness.com
+- philipgoff.substack.com
+- nytimes.com/column/the-stone
+- blog.oup.com
+- causonsfeminisme.com
+- dicopo.org
+- jdarriulat.net
+- philitt.fr
