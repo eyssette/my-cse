@@ -28,6 +28,8 @@
 - lewebpedagogique.com/charlierenard
 - maphilosophie.fr
 - philocite.blogspot.com
+- monsieurphi.com
+- philophil.com
 - bricophilo.wordpress.com
 - curiositesphilosophiques.over-blog.com
 - philobeziel.jimdofree.com
@@ -55,7 +57,6 @@
 - profjourde.wordpress.com
 - philosophie.ac-besancon.fr
 - philosophs.weebly.com
-- monsieurphi.com
 - apprendrelaphilosophie.com
 - leacasagrande01.wixsite.com
 - ungraindesable.blogspot.com
@@ -72,5 +73,4 @@
 - lewebpedagogique.com/philo-bac
 - philolycee.free.fr
 - philosophia.over-blog.com
-- philophil.com
 - serge.boarini.free.fr/Philosophie./
