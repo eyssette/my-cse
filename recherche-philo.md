@@ -22,6 +22,11 @@
 - philosophicaldisquisitions.blogspot.com
 - mediaserver.unige.ch
 - academia.edu
+- dicopo.org
+- jdarriulat.net
+- revue-klesis.org
+- igitur.org
+- raison-publique.fr
 - tar.weatherson.org
 - unphilosophe.com
 - dogmadelendaest.wordpress.com
@@ -49,8 +54,5 @@
 - nytimes.com/column/the-stone
 - blog.oup.com
 - causonsfeminisme.com
-- dicopo.org
-- jdarriulat.net
 - philitt.fr
-- revue-klesis.org
 - blog.ac-versailles.fr/oeildeminerve
