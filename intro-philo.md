@@ -19,10 +19,13 @@
 - philosophie.ch
 - philosophiedessciences.blogspot.fr
 - radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie
+- celinemarty.blogspot.com
+- celinemartyphilosophie.wordpress.com
+- harrystaut.fr
+- maphilosophie.fr
 - lewebpedagogique.com/terminale-philo
 - lewebpedagogique.com/philosaboie
 - lewebpedagogique.com/charlierenard
-- maphilosophie.fr
 - philocite.blogspot.com
 - monsieurphi.com
 - philophil.com
@@ -37,9 +40,6 @@
 - blogs.ac-amiens.fr/letiroirphilosophe
 - aline-louangvannasy.org
 - dicophilo.fr
-- celinemarty.blogspot.com
-- celinemartyphilosophie.wordpress.com
-- harrystaut.fr
 - evelynebuissiere.wordpress.com
 - laurentpendarias.com
 - soussen.blogspot.com
