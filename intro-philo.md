@@ -10,7 +10,6 @@
 - lenuki69.over-blog.fr
 - philo52.com
 - sos.philosophie.fr
-- harrystaut.fr
 - philolog.fr
 - iphilo.fr
 - roseaupensant.fr
@@ -43,6 +42,7 @@
 - dicophilo.fr
 - celinemarty.blogspot.com
 - celinemartyphilosophie.wordpress.com
+- harrystaut.fr
 - evelynebuissiere.wordpress.com
 - laurentpendarias.com
 - soussen.blogspot.com
