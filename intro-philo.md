@@ -18,7 +18,6 @@
 - philocours.com
 - philipp.philosophie.ch
 - chevet.unblog.fr
-- charles-de-gaulle-compiegne.ac-amiens.fr/matieres/philosophie
 - philosophie.ch
 - philosophiedessciences.blogspot.fr
 - radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie
