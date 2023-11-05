@@ -56,3 +56,5 @@
 - causonsfeminisme.com
 - philitt.fr
 - blog.ac-versailles.fr/oeildeminerve
+- lamorce.co
+- publicethics.org

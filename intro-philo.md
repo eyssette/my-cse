@@ -41,11 +41,15 @@
 - blogs.ac-amiens.fr/letiroirphilosophe
 - aline-louangvannasy.org
 - dicophilo.fr
+- celinemarty.blogspot.com
+- celinemartyphilosophie.wordpress.com
 - evelynebuissiere.wordpress.com
 - laurentpendarias.com
 - soussen.blogspot.com
 - surlefil.over-blog.net
 - fredericgrolleau.com
+- ac-grenoble.fr/PhiloSophie/logphil
+- daniel-pimbe.com
 - jeromelebre.fr
 - shungmanitotunka.blogspot.com
 - caute.lautre.net
@@ -54,6 +58,7 @@
 - jadorelaphilo.blogspot.com
 - philosophie.ac-versailles.fr
 - philo5.com
+- auphil-delo.fr
 - profjourde.wordpress.com
 - philosophie.ac-besancon.fr
 - philosophs.weebly.com
@@ -74,3 +79,4 @@
 - philolycee.free.fr
 - philosophia.over-blog.com
 - serge.boarini.free.fr/Philosophie./
+- michelnodelanglois.e-monsite.com/pages/philosophie
