@@ -9,6 +9,7 @@
 - erudit.org
 - persee.fr
 - journals.openedition.org
+- books.openedition.org
 - hypotheses.org
 - philpapers.org
 - encyclo-philo.fr
