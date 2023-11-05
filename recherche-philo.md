@@ -13,6 +13,8 @@
 - philpapers.org
 - encyclo-philo.fr
 - laviedesidees.fr
+- hal.science
+- theses.fr
 - ifac.univ-nantes.fr
 - philopsis.fr
 - college-de-france.fr
