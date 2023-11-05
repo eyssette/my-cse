@@ -8,7 +8,6 @@
 - ggpphilo.wordpress.com
 - dicopo.org
 - lenuki69.over-blog.fr
-- philo52.com
 - sos.philosophie.fr
 - philolog.fr
 - iphilo.fr
@@ -69,3 +68,4 @@
 - lechatsurmonepaule.over-blog.fr
 - lewebpedagogique.com/philo-bac
 - philosophia.over-blog.com
+- philo52.com
