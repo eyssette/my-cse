@@ -16,7 +16,6 @@
 - ibahiyya.e-monsite.com
 - philocours.com
 - chevet.unblog.fr
-- philosophie.ch
 - philosophiedessciences.blogspot.fr
 - radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie
 - celinemarty.blogspot.com
@@ -29,6 +28,7 @@
 - monsieurphi.com
 - philophil.com
 - bricophilo.wordpress.com
+- philo52.com
 - curiositesphilosophiques.over-blog.com
 - philobeziel.jimdofree.com
 - laphiloduclos.over-blog.com
@@ -45,7 +45,6 @@
 - denis-collin.viabloga.com
 - auphil-delo.fr
 - profjourde.wordpress.com
-- philosophie.ac-besancon.fr
 - philosophs.weebly.com
 - apprendrelaphilosophie.com
 - ungraindesable.blogspot.com
@@ -53,8 +52,8 @@
 - sites.google.com/site/philostendhal
 - apprendre-la-philosophie.blogspot.com
 - djaphil.fr
+- philosophie.ch
 - aidandiaye.over-blog.com
 - lechatsurmonepaule.over-blog.fr
 - lewebpedagogique.com/philo-bac
 - philosophia.over-blog.com
-- philo52.com

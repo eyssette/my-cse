@@ -2,6 +2,7 @@
 
 > Vous pouvez faire ci-dessous une recherche sur des sites d'introduction à la philosophie (suite du [premier moteur](https://eyssette.github.io/cse#intro-philo))
 
+- philosophie.ac-besancon.fr
 - philosophie.ac-versailles.fr
 - jadorelaphilo.blogspot.com
 - shungmanitotunka.blogspot.com
