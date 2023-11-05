@@ -47,7 +47,6 @@
 - soussen.blogspot.com
 - surlefil.over-blog.net
 - fredericgrolleau.com
-- ac-grenoble.fr/PhiloSophie/logphil
 - daniel-pimbe.com
 - jeromelebre.fr
 - shungmanitotunka.blogspot.com
