@@ -20,6 +20,7 @@
 - theses.fr
 - philopsis.fr
 - college-de-france.fr
+- sciencespo.fr
 - philosophicaldisquisitions.blogspot.com
 - mediaserver.unige.ch
 - dicopo.org
