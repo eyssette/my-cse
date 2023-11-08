@@ -28,6 +28,8 @@
 - monsieurphi.com
 - philophil.com
 - bricophilo.wordpress.com
+- atelierphilo.fr
+- philons.org
 - philo52.com
 - curiositesphilosophiques.over-blog.com
 - philobeziel.jimdofree.com
