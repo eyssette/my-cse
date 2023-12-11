@@ -4,3 +4,4 @@
 
 - drane.ac-*.fr
 - dane.ac-*.fr
+- drne.region-academique-bourgogne-franche-comte.fr
